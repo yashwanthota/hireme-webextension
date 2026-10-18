@@ -19,7 +19,7 @@ A **100% free** browser extension that analyzes your resume against job descript
 
 1. Clone or download this repository
    ```bash
-   git clone https://github.com/Siddharth-Rangwa/Smart_Resume_Matcher.git
+   git clone https://github.com/yashwanthota/hireme-webextension
    ```
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable **Developer mode** (toggle in top right)
@@ -120,10 +120,4 @@ Contributions are welcome! Feel free to:
 - Suggest features
 - Submit pull requests
 
-##  License
 
-MIT License - feel free to use and modify!
-
----
-
-**Made with ❤️ for job seekers everywhere**
